@@ -17,5 +17,7 @@ public class GbajabiamilaKashif_Test00 {
         GbajabiamilaKashifLab00 lab = new GbajabiamilaKashifLab00();
     System.out.println(lab.problem0(9999));
     System.out.println(lab.problem1(9999));
+    System.out.println(lab.problem2(1000000));
+    System.out.println(lab.problem2A(1000000));
     }
 }
